@@ -1,0 +1,1 @@
+先输入make image，再输入bochs即可运行。
